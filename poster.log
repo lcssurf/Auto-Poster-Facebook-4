@@ -1,0 +1,36 @@
+INFO // 2022-06-10 00:43:01,356 // Linha: 114 // Arquivo: poster.py // Funcao: termosCondicoes // Erro: Termos de uso foi checado
+INFO // 2022-06-10 00:43:47,313 // Linha: 118 // Arquivo: poster.py // Funcao: termosCondicoes // Erro: Termos de uso foi desmarcado
+INFO // 2022-06-10 00:43:50,249 // Linha: 114 // Arquivo: poster.py // Funcao: termosCondicoes // Erro: Termos de uso foi marcado
+WARNING // 2022-06-10 00:44:15,537 // Linha: 118 // Arquivo: poster.py // Funcao: termosCondicoes // Erro: Termos de uso foi desmarcado
+INFO // 2022-06-10 00:44:19,737 // Linha: 114 // Arquivo: poster.py // Funcao: termosCondicoes // Erro: Termos de uso foi marcado
+WARNING // 2022-06-10 00:50:47,849 // Linha: 243 // Arquivo: poster.py // Funcao: stop // Erro: O programa foi finalizado
+WARNING // 2022-06-10 00:58:19,921 // Linha: 113 // Arquivo: bot.py // Funcao: action // MSG: O bot está sendo iniciado
+ERROR // 2022-06-10 00:58:21,542 // Linha: 134 // Arquivo: bot.py // Funcao: action // MSG: ocorreu um erro ao receber os parametros
+WARNING // 2022-06-10 10:41:30,240 // Linha: 113 // Arquivo: bot.py // Funcao: action // MSG: O bot esta sendo iniciado
+INFO // 2022-06-10 10:41:42,378 // Linha: 164 // Arquivo: bot.py // Funcao: action // MSG: Esperando fazer login no Facebook
+WARNING // 2022-06-10 10:43:18,385 // Linha: 113 // Arquivo: bot.py // Funcao: action // MSG: O bot esta sendo iniciado
+INFO // 2022-06-10 10:43:30,282 // Linha: 164 // Arquivo: bot.py // Funcao: action // MSG: Esperando fazer login no Facebook
+WARNING // 2022-06-10 10:45:10,199 // Linha: 113 // Arquivo: bot.py // Funcao: action // MSG: O bot esta sendo iniciado
+INFO // 2022-06-10 10:45:21,979 // Linha: 164 // Arquivo: bot.py // Funcao: action // MSG: Esperando fazer login no Facebook
+INFO // 2022-06-10 10:45:22,253 // Linha: 182 // Arquivo: bot.py // Funcao: action // MSG: Acessou Nº: 0; Link: https://www.facebook.com/groups/844015172347346/
+INFO // 2022-06-10 16:17:31,214 // Linha: 217 // Arquivo: poster.py // Funcao: register // MSG: O License Register foi aberto
+WARNING // 2022-06-11 16:28:23,187 // Linha: 249 // Arquivo: poster.py // Funcao: start // MSG: O bot irá iniciar
+INFO // 2022-06-11 16:28:24,788 // Linha: 269 // Arquivo: poster.py // Funcao: start // MSG: A licenca está funcionando normalmente
+WARNING // 2022-06-11 16:29:54,019 // Linha: 249 // Arquivo: poster.py // Funcao: start // MSG: O bot irá iniciar
+INFO // 2022-06-11 16:29:55,579 // Linha: 269 // Arquivo: poster.py // Funcao: start // MSG: A licenca está funcionando normalmente
+WARNING // 2022-06-11 16:30:29,378 // Linha: 113 // Arquivo: bot.py // Funcao: action // MSG: O bot esta sendo iniciado
+WARNING // 2022-06-11 16:32:40,166 // Linha: 113 // Arquivo: bot.py // Funcao: action // MSG: O bot esta sendo iniciado
+WARNING // 2022-06-11 16:32:55,923 // Linha: 249 // Arquivo: poster.py // Funcao: start // MSG: O bot irá iniciar
+INFO // 2022-06-11 16:32:57,533 // Linha: 269 // Arquivo: poster.py // Funcao: start // MSG: A licenca está funcionando normalmente
+WARNING // 2022-06-11 16:33:57,467 // Linha: 249 // Arquivo: poster.py // Funcao: start // MSG: O bot irá iniciar
+INFO // 2022-06-11 16:33:59,071 // Linha: 269 // Arquivo: poster.py // Funcao: start // MSG: A licenca está funcionando normalmente
+WARNING // 2022-06-11 16:35:32,011 // Linha: 249 // Arquivo: poster.py // Funcao: start // MSG: O bot irá iniciar
+INFO // 2022-06-11 16:35:33,608 // Linha: 269 // Arquivo: poster.py // Funcao: start // MSG: A data da licenca esta correta
+WARNING // 2022-06-11 16:37:18,755 // Linha: 249 // Arquivo: poster.py // Funcao: start // MSG: O bot irá iniciar
+INFO // 2022-06-11 16:37:20,355 // Linha: 269 // Arquivo: poster.py // Funcao: start // MSG: A data da licenca esta correta
+WARNING // 2022-06-11 16:38:57,098 // Linha: 249 // Arquivo: poster.py // Funcao: start // MSG: O bot irá iniciar
+INFO // 2022-06-11 16:38:58,654 // Linha: 269 // Arquivo: poster.py // Funcao: start // MSG: A data da licenca esta correta
+WARNING // 2022-06-11 16:39:37,155 // Linha: 249 // Arquivo: poster.py // Funcao: start // MSG: O bot irá iniciar
+INFO // 2022-06-11 16:39:38,770 // Linha: 269 // Arquivo: poster.py // Funcao: start // MSG: A data da licenca esta correta
+WARNING // 2022-06-13 09:12:34,667 // Linha: 249 // Arquivo: poster.py // Funcao: start // MSG: O bot irá iniciar
+INFO // 2022-06-13 09:12:36,274 // Linha: 269 // Arquivo: poster.py // Funcao: start // MSG: A data da licenca esta correta

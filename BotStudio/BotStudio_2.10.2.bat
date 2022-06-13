@@ -1,0 +1,1 @@
+start "BotStudio Console" /MIN "./bin/jre1.8.0_144/bin/java.exe" -jar ./bin/BotStudio-2.10.2.jar

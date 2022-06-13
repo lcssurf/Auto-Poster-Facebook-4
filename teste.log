@@ -1,0 +1,80 @@
+WARNING:root:Soma: 10 + 50 = 60
+WARNING:root:Sub: 10 - 50 = -40
+WARNING:root:Mult: 10 * 50 = -40
+WARNING:root:Div: 10 / 50 = -40
+WARNING:root:Soma: 10 + 50 = 60
+WARNING:root:Sub: 10 - 50 = -40
+WARNING:root:Mult: 10 * 50 = -40
+WARNING:root:Div: 10 / 50 = -40
+WARNING:root:Soma: 10 + 50 = 60
+WARNING:root:Sub: 10 - 50 = -40
+WARNING:root:Mult: 10 * 50 = -40
+WARNING:root:Div: 10 / 50 = -40
+2022-06-10 00:24:10,762 \u2502 30 \u2502 27
+2022-06-10 00:24:10,762 \u2502 30 \u2502 30
+2022-06-10 00:24:10,762 \u2502 30 \u2502 33
+2022-06-10 00:24:10,762 \u2502 30 \u2502 36
+2022-06-10 00:24:30,793 \u2502\u2502 30 \u2502\u2502 27
+2022-06-10 00:24:30,793 \u2502\u2502 30 \u2502\u2502 30
+2022-06-10 00:24:30,793 \u2502\u2502 30 \u2502\u2502 33
+2022-06-10 00:24:30,793 \u2502\u2502 30 \u2502\u2502 36
+2022-06-10 00:25:48,442 \u2502 30 \u2502 27 \u2502 1654831548.442972
+2022-06-10 00:25:48,442 \u2502 30 \u2502 30 \u2502 1654831548.442972
+2022-06-10 00:25:48,442 \u2502 30 \u2502 33 \u2502 1654831548.442972
+2022-06-10 00:25:48,443 \u2502 30 \u2502 36 \u2502 1654831548.443969
+2022-06-10 00:26:31,420 \u2502 30 \u2502 27 \u2502 1654831591.420567 \u2502 testes.py
+2022-06-10 00:26:31,420 \u2502 30 \u2502 30 \u2502 1654831591.420567 \u2502 testes.py
+2022-06-10 00:26:31,420 \u2502 30 \u2502 33 \u2502 1654831591.420567 \u2502 testes.py
+2022-06-10 00:26:31,420 \u2502 30 \u2502 36 \u2502 1654831591.420567 \u2502 testes.py
+2022-06-10 00:27:07,722 \u2502 30 \u2502 27 \u2502 testes.py \u2502 <module>
+2022-06-10 00:27:07,722 \u2502 30 \u2502 30 \u2502 testes.py \u2502 <module>
+2022-06-10 00:27:07,722 \u2502 30 \u2502 33 \u2502 testes.py \u2502 <module>
+2022-06-10 00:27:07,722 \u2502 30 \u2502 36 \u2502 testes.py \u2502 <module>
+WARNING \u2502 2022-06-10 00:27:33,760 \u2502 30 \u2502 27 \u2502 testes.py \u2502 <module>
+WARNING \u2502 2022-06-10 00:27:33,761 \u2502 30 \u2502 30 \u2502 testes.py \u2502 <module>
+WARNING \u2502 2022-06-10 00:27:33,761 \u2502 30 \u2502 33 \u2502 testes.py \u2502 <module>
+WARNING \u2502 2022-06-10 00:27:33,761 \u2502 30 \u2502 36 \u2502 testes.py \u2502 <module>
+WARNING // 2022-06-10 00:27:52,779 \u2502 30 \u2502 27 \u2502 testes.py \u2502 <module>
+WARNING // 2022-06-10 00:27:52,779 \u2502 30 \u2502 30 \u2502 testes.py \u2502 <module>
+WARNING // 2022-06-10 00:27:52,779 \u2502 30 \u2502 33 \u2502 testes.py \u2502 <module>
+WARNING // 2022-06-10 00:27:52,779 \u2502 30 \u2502 36 \u2502 testes.py \u2502 <module>
+WARNING // 2022-06-10 00:28:10,613 // 30 // 27 // testes.py // <module>
+WARNING // 2022-06-10 00:28:10,613 // 30 // 30 // testes.py // <module>
+WARNING // 2022-06-10 00:28:10,613 // 30 // 33 // testes.py // <module>
+WARNING // 2022-06-10 00:28:10,613 // 30 // 36 // testes.py // <module>
+WARNING // 2022-06-10 00:28:37,999 // Level: 30 // 27 // testes.py // <module>
+WARNING // 2022-06-10 00:28:37,999 // Level: 30 // 30 // testes.py // <module>
+WARNING // 2022-06-10 00:28:37,999 // Level: 30 // 33 // testes.py // <module>
+WARNING // 2022-06-10 00:28:37,999 // Level: 30 // 36 // testes.py // <module>
+WARNING // 2022-06-10 00:29:57,022 // Linha: 27 // testes.py // <module>
+WARNING // 2022-06-10 00:29:57,022 // Linha: 30 // testes.py // <module>
+WARNING // 2022-06-10 00:29:57,022 // Linha: 33 // testes.py // <module>
+WARNING // 2022-06-10 00:29:57,022 // Linha: 36 // testes.py // <module>
+WARNING // 2022-06-10 00:31:34,015 // Linha: 27 // testes.py // <module> // Erro: Soma: 10 + 50 = 60
+WARNING // 2022-06-10 00:31:34,015 // Linha: 30 // testes.py // <module> // Erro: Sub: 10 - 50 = -40
+WARNING // 2022-06-10 00:31:34,015 // Linha: 33 // testes.py // <module> // Erro: Mult: 10 * 50 = -40
+WARNING // 2022-06-10 00:31:34,015 // Linha: 36 // testes.py // <module> // Erro: Div: 10 / 50 = -40
+WARNING // 2022-06-10 00:32:23,276 // Linha: 27 // Arquivo: testes.py // Função: <module> // Erro: Soma: 10 + 50 = 60
+WARNING // 2022-06-10 00:32:23,276 // Linha: 30 // Arquivo: testes.py // Função: <module> // Erro: Sub: 10 - 50 = -40
+WARNING // 2022-06-10 00:32:23,276 // Linha: 33 // Arquivo: testes.py // Função: <module> // Erro: Mult: 10 * 50 = -40
+WARNING // 2022-06-10 00:32:23,276 // Linha: 36 // Arquivo: testes.py // Função: <module> // Erro: Div: 10 / 50 = -40
+WARNING // 2022-06-10 00:32:35,530 // Linha: 27 // Arquivo: testes.py // Funcao: <module> // Erro: Soma: 10 + 50 = 60
+WARNING // 2022-06-10 00:32:35,531 // Linha: 30 // Arquivo: testes.py // Funcao: <module> // Erro: Sub: 10 - 50 = -40
+WARNING // 2022-06-10 00:32:35,531 // Linha: 33 // Arquivo: testes.py // Funcao: <module> // Erro: Mult: 10 * 50 = -40
+WARNING // 2022-06-10 00:32:35,531 // Linha: 36 // Arquivo: testes.py // Funcao: <module> // Erro: Div: 10 / 50 = -40
+WARNING // 2022-06-10 00:34:08,246 // Linha: 27 // Arquivo: testes.py // Funcao: <module> // Erro: Soma: 10 + 50 = 60 // MainProcess
+WARNING // 2022-06-10 00:34:08,246 // Linha: 30 // Arquivo: testes.py // Funcao: <module> // Erro: Sub: 10 - 50 = -40 // MainProcess
+WARNING // 2022-06-10 00:34:08,246 // Linha: 33 // Arquivo: testes.py // Funcao: <module> // Erro: Mult: 10 * 50 = -40 // MainProcess
+WARNING // 2022-06-10 00:34:08,246 // Linha: 36 // Arquivo: testes.py // Funcao: <module> // Erro: Div: 10 / 50 = -40 // MainProcess
+WARNING // 2022-06-10 00:34:29,968 // Linha: 27 // Arquivo: testes.py // Funcao: <module> // Erro: Soma: 10 + 50 = 60 // MainProcess // 3660
+WARNING // 2022-06-10 00:34:29,968 // Linha: 30 // Arquivo: testes.py // Funcao: <module> // Erro: Sub: 10 - 50 = -40 // MainProcess // 3660
+WARNING // 2022-06-10 00:34:29,968 // Linha: 33 // Arquivo: testes.py // Funcao: <module> // Erro: Mult: 10 * 50 = -40 // MainProcess // 3660
+WARNING // 2022-06-10 00:34:29,968 // Linha: 36 // Arquivo: testes.py // Funcao: <module> // Erro: Div: 10 / 50 = -40 // MainProcess // 3660
+WARNING // 2022-06-10 00:35:05,787 // Linha: 27 // Arquivo: testes.py // Funcao: <module> // Erro: Soma: 10 + 50 = 60 // MainThread //
+WARNING // 2022-06-10 00:35:05,787 // Linha: 30 // Arquivo: testes.py // Funcao: <module> // Erro: Sub: 10 - 50 = -40 // MainThread //
+WARNING // 2022-06-10 00:35:05,787 // Linha: 33 // Arquivo: testes.py // Funcao: <module> // Erro: Mult: 10 * 50 = -40 // MainThread //
+WARNING // 2022-06-10 00:35:05,787 // Linha: 36 // Arquivo: testes.py // Funcao: <module> // Erro: Div: 10 / 50 = -40 // MainThread //
+WARNING // 2022-06-10 00:35:22,927 // Linha: 27 // Arquivo: testes.py // Funcao: <module> // Erro: Soma: 10 + 50 = 60
+WARNING // 2022-06-10 00:35:22,927 // Linha: 30 // Arquivo: testes.py // Funcao: <module> // Erro: Sub: 10 - 50 = -40
+WARNING // 2022-06-10 00:35:22,927 // Linha: 33 // Arquivo: testes.py // Funcao: <module> // Erro: Mult: 10 * 50 = -40
+WARNING // 2022-06-10 00:35:22,927 // Linha: 36 // Arquivo: testes.py // Funcao: <module> // Erro: Div: 10 / 50 = -40
