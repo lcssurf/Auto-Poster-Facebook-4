@@ -34,3 +34,6 @@ WARNING // 2022-06-11 16:39:37,155 // Linha: 249 // Arquivo: poster.py // Funcao
 INFO // 2022-06-11 16:39:38,770 // Linha: 269 // Arquivo: poster.py // Funcao: start // MSG: A data da licenca esta correta
 WARNING // 2022-06-13 09:12:34,667 // Linha: 249 // Arquivo: poster.py // Funcao: start // MSG: O bot irá iniciar
 INFO // 2022-06-13 09:12:36,274 // Linha: 269 // Arquivo: poster.py // Funcao: start // MSG: A data da licenca esta correta
+INFO // 2022-06-17 10:27:38,629 // Linha: 165 // Arquivo: bot.py // Funcao: action // MSG: Esperando fazer login no Facebook
+INFO // 2022-06-17 10:27:40,517 // Linha: 183 // Arquivo: bot.py // Funcao: action // MSG: Acessou Nº: 0; Link: https://www.facebook.com/groups/844015172347346/
+INFO // 2022-06-17 10:27:56,293 // Linha: 200 // Arquivo: bot.py // Funcao: action // MSG: Publicou no grupo Nº: 0; Modelo: 21:9
